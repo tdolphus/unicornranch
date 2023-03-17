@@ -1,7 +1,6 @@
 ## Unicorn dashboard app
 
-The purpose of this app is to create a dashboard overview of which unicorns are which locations in the ranch. 
-
+The purpose of this app is to create a dashboard overview showing the locations of the different unicorns in the ranch. 
 
 First, run the node server and keep this terminal open.
 
