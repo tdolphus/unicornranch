@@ -6,7 +6,7 @@ The purpose of this app is to create a dashboard overview of which unicorns are 
 First, run the node server and keep this terminal open.
 
 ```bash
-cd unicorn-server
+cd unicorn-data-server
 npm install
 node app.js
 ```
@@ -14,7 +14,7 @@ node app.js
 Next, run the react front-end in a different terminal. 
 
 ```bash
-cd my-app
+cd unicorn-dashboard
 npm install
 npm run dev
 ```
