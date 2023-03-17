@@ -42,7 +42,7 @@ app.post("/unicorn-post", (req, res) => {
       return unicorn;
     }
   });
-  res.send(`"New Data: ${JSON.stringify(unicornData)}`);
+  res.send(`New Data: ${JSON.stringify(unicornData)}`);
 });
 
 //Creates GET api for receiving unicorn data
